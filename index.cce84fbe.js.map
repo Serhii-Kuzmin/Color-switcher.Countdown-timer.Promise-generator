@@ -1,0 +1,1 @@
+{"mappings":"oeAAAA,EAAA,S","sources":["src/index.js"],"sourcesContent":["import './js/01-color-switcher';\nimport './js/02-timer';\nimport './js/03-promises';\n"],"names":["parcelRequire"],"version":3,"file":"index.cce84fbe.js.map"}
